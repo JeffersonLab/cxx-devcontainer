@@ -1,4 +1,4 @@
-# cxx-devcontainer [![Docker](https://img.shields.io/docker/v/jeffersonlab/java-devcontainer?sort=semver&label=DockerHub)](https://hub.docker.com/r/jeffersonlab/java-devcontainer)
+# cxx-devcontainer [![Docker](https://img.shields.io/docker/v/jeffersonlab/cxx-devcontainer?sort=semver&label=DockerHub)](https://hub.docker.com/r/jeffersonlab/cxx-devcontainer)
 A C/C++ [devcontainer](https://containers.dev/).
 
 ## Overview
