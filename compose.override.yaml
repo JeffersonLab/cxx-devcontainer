@@ -1,0 +1,3 @@
+services:
+  dev:
+    image: jeffersonlab/cxx-devcontainer:1.0.0

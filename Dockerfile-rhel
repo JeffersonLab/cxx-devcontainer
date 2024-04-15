@@ -1,0 +1,5 @@
+FROM registry.access.redhat.com/ubi9/ubi-init:9.3-12
+
+RUN dnf -y install g++ cmake && dnf clean all
+
+ENV TZ=America/New_York

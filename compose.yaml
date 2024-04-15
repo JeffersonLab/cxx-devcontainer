@@ -1,0 +1,4 @@
+services:
+  dev:
+    hostname: dev
+    container_name: dev
