@@ -2,7 +2,7 @@
 A C/C++ [devcontainer](https://containers.dev/).
 
 ## Overview
-The 1.x version series is intended to use the following:
+The 1.x version series uses the following:
 - G++ 11
 - CMake 3.29.x
 - Doxygen
