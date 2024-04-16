@@ -5,6 +5,7 @@ A C/C++ [devcontainer](https://containers.dev/).
 The 1.x version series is intended to use the following:
 - G++ 11
 - CMake 3.29.x
+- Doxygen
 - vcpkg
 - Ubuntu "jammy"
 - [Docker outside of Docker](https://github.com/devcontainers/features/tree/main/src/docker-outside-of-docker) (sibling container).   Use a bind mount of the form `/var/run/docker.sock:/var/run/docker.sock`. We don't use [Docker in  Docker](https://github.com/devcontainers/features/tree/main/src/docker-in-docker), because it appears to be the [less good option](https://jpetazzo.github.io/2015/09/03/do-not-use-docker-in-docker-for-ci/).
