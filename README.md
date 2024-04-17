@@ -1,4 +1,4 @@
-# cxx-devcontainer [![Docker](https://img.shields.io/docker/v/jeffersonlab/cxx-devcontainer?sort=semver&label=DockerHub)](https://hub.docker.com/r/jeffersonlab/cxx-devcontainer) <a href="https://codespaces.new/JeffersonLab/cxx-workflows"><img src="https://github.com/codespaces/badge.svg" height="20"></a>
+# cxx-devcontainer [![Docker](https://img.shields.io/docker/v/jeffersonlab/cxx-devcontainer?sort=semver&label=DockerHub)](https://hub.docker.com/r/jeffersonlab/cxx-devcontainer) <a href="https://codespaces.new/JeffersonLab/cxx-devcontainer"><img src="https://github.com/codespaces/badge.svg" height="20"></a>
 A C/C++ [devcontainer](https://containers.dev/).
 
 ## Overview
